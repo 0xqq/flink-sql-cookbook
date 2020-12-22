@@ -47,3 +47,4 @@ WHERE rownum = 1;
 ## Example Output
 
 ![20_dedup](https://user-images.githubusercontent.com/23521087/102718503-b87d5700-42e8-11eb-8b45-4f9908e8e14e.gif)
+
